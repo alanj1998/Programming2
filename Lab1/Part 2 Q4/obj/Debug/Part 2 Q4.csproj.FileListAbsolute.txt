@@ -1,0 +1,5 @@
+H:\Programming2\Lab1\Part 2 Q4\bin\Debug\Part 2 Q4.exe.config
+H:\Programming2\Lab1\Part 2 Q4\bin\Debug\Part 2 Q4.exe
+H:\Programming2\Lab1\Part 2 Q4\bin\Debug\Part 2 Q4.pdb
+H:\Programming2\Lab1\Part 2 Q4\obj\Debug\Part 2 Q4.exe
+H:\Programming2\Lab1\Part 2 Q4\obj\Debug\Part 2 Q4.pdb

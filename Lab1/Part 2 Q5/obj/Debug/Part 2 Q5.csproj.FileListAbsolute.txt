@@ -1,0 +1,11 @@
+H:\Programming2\Lab1\Part 2 Q5\bin\Debug\Part 2 Q5.exe.config
+H:\Programming2\Lab1\Part 2 Q5\bin\Debug\Part 2 Q5.exe
+H:\Programming2\Lab1\Part 2 Q5\bin\Debug\Part 2 Q5.pdb
+H:\Programming2\Lab1\Part 2 Q5\obj\Debug\Part 2 Q5.exe
+H:\Programming2\Lab1\Part 2 Q5\obj\Debug\Part 2 Q5.pdb
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 2 Q5\bin\Debug\Part 2 Q5.exe.config
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 2 Q5\obj\Debug\Part 2 Q5.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 2 Q5\obj\Debug\Part 2 Q5.pdb
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 2 Q5\bin\Debug\Part 2 Q5.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 2 Q5\bin\Debug\Part 2 Q5.pdb
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 2 Q5\obj\Debug\Part 2 Q5.csprojResolveAssemblyReference.cache

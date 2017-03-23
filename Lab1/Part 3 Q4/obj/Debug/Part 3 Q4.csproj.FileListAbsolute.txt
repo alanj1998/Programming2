@@ -1,0 +1,6 @@
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q4\bin\Debug\Part 3 Q4.exe.config
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q4\bin\Debug\Part 3 Q4.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q4\bin\Debug\Part 3 Q4.pdb
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q4\obj\Debug\Part 3 Q4.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q4\obj\Debug\Part 3 Q4.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q4\obj\Debug\Part 3 Q4.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\AdvancedQ4\bin\Debug\AdvancedQ4.exe.config
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\AdvancedQ4\bin\Debug\AdvancedQ4.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\AdvancedQ4\bin\Debug\AdvancedQ4.pdb
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\AdvancedQ4\obj\Debug\AdvancedQ4.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\AdvancedQ4\obj\Debug\AdvancedQ4.pdb

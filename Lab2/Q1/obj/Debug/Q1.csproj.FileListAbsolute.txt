@@ -1,0 +1,6 @@
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\Q1\bin\Debug\Q1.exe.config
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\Q1\bin\Debug\Q1.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\Q1\bin\Debug\Q1.pdb
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\Q1\obj\Debug\Q1.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab2\Q1\obj\Debug\Q1.pdb

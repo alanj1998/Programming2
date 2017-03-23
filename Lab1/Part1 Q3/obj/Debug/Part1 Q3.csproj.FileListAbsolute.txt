@@ -1,0 +1,6 @@
+H:\Programming2\Lab1\Part1 Q3\bin\Debug\Part1 Q3.exe.config
+H:\Programming2\Lab1\Part1 Q3\bin\Debug\Part1 Q3.exe
+H:\Programming2\Lab1\Part1 Q3\bin\Debug\Part1 Q3.pdb
+H:\Programming2\Lab1\Part1 Q3\obj\Debug\Part1 Q3.exe
+H:\Programming2\Lab1\Part1 Q3\obj\Debug\Part1 Q3.pdb
+H:\Programming2\Lab1\Part1 Q3\obj\Debug\Part1 Q3.csprojResolveAssemblyReference.cache

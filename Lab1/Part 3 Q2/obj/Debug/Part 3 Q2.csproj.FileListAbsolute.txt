@@ -1,0 +1,5 @@
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q2\bin\Debug\Part 3 Q2.exe.config
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q2\bin\Debug\Part 3 Q2.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q2\bin\Debug\Part 3 Q2.pdb
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q2\obj\Debug\Part 3 Q2.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q2\obj\Debug\Part 3 Q2.pdb

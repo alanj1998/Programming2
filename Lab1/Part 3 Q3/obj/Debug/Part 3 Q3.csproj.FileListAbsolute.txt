@@ -1,0 +1,6 @@
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q3\bin\Debug\Part 3 Q3.exe.config
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q3\obj\Debug\Part 3 Q3.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q3\bin\Debug\Part 3 Q3.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q3\bin\Debug\Part 3 Q3.pdb
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q3\obj\Debug\Part 3 Q3.exe
+C:\Users\Mama\Documents\Visual Studio 2015\Projects\Programming2\Lab1\Part 3 Q3\obj\Debug\Part 3 Q3.pdb

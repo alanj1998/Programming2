@@ -1,0 +1,6 @@
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab7\ArrayQsSet\bin\Debug\ArrayQsSet.exe.config
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab7\ArrayQsSet\bin\Debug\ArrayQsSet.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab7\ArrayQsSet\bin\Debug\ArrayQsSet.pdb
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab7\ArrayQsSet\obj\Debug\ArrayQsSet.csprojResolveAssemblyReference.cache
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab7\ArrayQsSet\obj\Debug\ArrayQsSet.exe
+C:\Users\Mama\Documents\GitHub\college\Programming2\Lab7\ArrayQsSet\obj\Debug\ArrayQsSet.pdb
